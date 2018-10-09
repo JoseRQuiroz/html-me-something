@@ -17,7 +17,7 @@ ul{
     -webkit-columns: 2;
     -moz-columns: 2;
     columns: 2;
-
+    list-style-position: inside;//this is important addition
 }
 
 
@@ -59,3 +59,9 @@ background-size: cover;
 .contact{
     text-align: center;
     }
+
+
+h5{
+    font-style: oblique;
+    text-align: center;
+}
